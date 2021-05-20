@@ -23,3 +23,21 @@ li a:hover {
     color: white;
 }
  
+.navbar{
+    list-style-type: none;
+    margin:0 ;
+    padding: 0;
+    overflow:hidden;
+    background-color:blue;
+}
+.navbar li{
+    float:left;
+}
+.navbar li a{
+    display: block;
+    color: yellow;
+    padding: 16px  16px;
+    text-decoration: yellow;
+    margin-left: 120px;
+    font-family:'Franklin Gothic Medium';
+     }
